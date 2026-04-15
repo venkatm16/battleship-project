@@ -1,8 +1,7 @@
 # Autonomous Agents for Battleship
 
 **Course:** Artificial Intelligence  
-**Author:** Venkatashivasai  
-**Date:** April 2026
+**Author:** Venkatashivasai Muppidi
 
 ---
 
